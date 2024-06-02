@@ -11,6 +11,7 @@ Feel free to explore my repositories, give feedback, or even collaborate on a pr
 
 Thank you for visiting my profile! Let's code and create something amazing together. 🌟
 
+🌱 I’m currently learning PHP (Laravel), Python
 Happy coding! 💻
 
 Andhika Hazra
