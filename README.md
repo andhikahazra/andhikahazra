@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to My GitHub Profile! 🚀
 
-My name is Andhika Hazra, and I am currently a student at the University of Technology Yogyakarta. I have a strong passion for web development and I am excited to share my journey and projects with you here on GitHub.
+My name is Andhika Hazra, and I am currently a second-semester student at the University of Technology Yogyakarta, majoring in Informatics in the Faculty of Science and Technology. I have a strong passion for web development, and I am excited to share my journey and projects with you here on GitHub.
 
 As an aspiring web developer, I am constantly learning and exploring new technologies and methodologies to enhance my skills. My primary focus is on creating user-friendly, efficient, and aesthetically pleasing web applications. I believe that a well-designed website can make a significant impact, and I strive to bring innovative ideas to life through my work.
 
@@ -12,6 +12,7 @@ Feel free to explore my repositories, give feedback, or even collaborate on a pr
 Thank you for visiting my profile! Let's code and create something amazing together. 🌟
 
 🌱 I’m currently learning PHP (Laravel), Python
+
 Happy coding! 💻
 
 Andhika Hazra
